@@ -101,7 +101,7 @@ for t=1:T
                       end
                 
             end
-        end
+        
         
           % update the winning neuron
          
@@ -145,7 +145,7 @@ for t=1:T
                 B(jj1,jj2)=B(jj1,jj2) + alpha * e_factor * (X3(n)-B(jj1,jj2));
             end
        end 
-        %  end
+         end
 
     end
    
