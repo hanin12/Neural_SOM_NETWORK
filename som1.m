@@ -84,7 +84,7 @@ for t=1:T
                  
             end
             
-        end
+        
            
      
        
@@ -101,7 +101,7 @@ for t=1:T
                       end
                 
             end
-        
+        end
         
           % update the winning neuron
          
